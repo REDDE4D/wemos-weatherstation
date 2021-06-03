@@ -16,3 +16,6 @@ The webpart will follow later as it is still under development.
 
 ### Planned Features
 - Battery monitoring with notifications
+
+### Schematic
+![schematic](https://user-images.githubusercontent.com/12301042/120682723-1370c800-c49d-11eb-8d5d-c1b77fb0a61a.png)
