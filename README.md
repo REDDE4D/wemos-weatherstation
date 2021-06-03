@@ -11,7 +11,7 @@ The webpart will follow later as it is still under development.
 ### Requirements
 - Wemos D1 mini
 - BME280
-- 18650 Battery Shield V3
+- 18650 Battery holder
 - 18650 Battery
 
 ### Planned Features
