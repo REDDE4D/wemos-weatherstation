@@ -1,5 +1,5 @@
 ## Wemos Weather Station
-This is a simple Arduino script for monitoring Temperatur, Humidity and Pressure
+This is a simple Arduino script for monitoring temperatur, humidity and pressure
 with a Wemos D1 mini and a BME280.
 The webpart will follow later as it is still under development.
 
