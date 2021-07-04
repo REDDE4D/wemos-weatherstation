@@ -2,8 +2,9 @@
 ## Wemos Weather Station
 This is a simple Arduino script for monitoring temperatur, humidity, pressure and battery level
 with a Wemos D1 mini and a BME280 over MQTT to HomeAssistant (or any other Smarthome Hub).
-Running up to 14 Days on a single charge. (depending on sending interval default every 30mins)
-Gerber files for pcb included.
+
+- Running up to 14 Days on a single charge. (depending on sending interval default every 30mins)
+- Gerber files for pcb included.
 
 ### Used Libraries
 - cactus_io_BME280_I2C
