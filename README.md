@@ -1,3 +1,4 @@
+
 ## Wemos Weather Station
 This is a simple Arduino script for monitoring temperatur, humidity, pressure and battery level
 with a Wemos D1 mini and a BME280 over MQTT to HomeAssistant (or any other Smarthome Hub).
@@ -16,3 +17,5 @@ with a Wemos D1 mini and a BME280 over MQTT to HomeAssistant (or any other Smart
 - 180k Ohm resistor - https://www.amazon.de/Widerstand-St%C3%BCck-Metallschicht-Metallfilm-Widerst%C3%A4nde/dp/B00I9YYFIW/
 - 2pin Jumper - https://www.amazon.de/gp/product/B086MZN5JQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+### Shematic
+![shema](https://user-images.githubusercontent.com/12301042/124390537-5ddba380-dcec-11eb-8d0f-03f816cc26a4.png)
